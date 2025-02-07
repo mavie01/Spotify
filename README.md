@@ -1,4 +1,4 @@
-### Spotify Desktop Application
+# Spotify Desktop Application
 
 ## Overview
 This is a **Spotify Desktop application** that replicates the core features of the popular music streaming platform, Spotify. It allows users to listen to music, browse through playlists, and enjoy an engaging interface similar to the original app.  
