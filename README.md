@@ -13,7 +13,7 @@ The goal of this project is to demonstrate proficiency in web development and pr
 
 ### Installation Instructions
 ## Prerequisites
-- **Node.js installed on your machine (for React or Node.js-based apps).  
+- Node.js installed on your machine (for React or Node.js-based apps).  
 - A Spotify Developer account and API credentials (for integration with Spotify).
 
 ## Contributing
