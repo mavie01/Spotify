@@ -6,7 +6,7 @@ The goal of this project is to demonstrate proficiency in web development and pr
 
 ## Technologies Used
 HTML5: Structure of the webpage.
-CSS3: Styling and layout of the webpage.
+CSS3: Styling and layout of the webpage.  
 JavaScript: Frontend interactivity and dynamic content.
 Node.js: If there's any backend logic or server-side integration.
 
