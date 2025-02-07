@@ -16,6 +16,6 @@ A Spotify Developer account and API credentials (for integration with Spotify).
 ## Contributing
 Feel free to fork the repository, create an issue, or submit a pull request. Contributions are always welcome!
 
-Acknowledgments
-@servetgulnaroglu Thanks to for the YouTube tutorial and code that served as the foundation for this project.
+## Acknowledgments
+@servetgulnaroglu Thanks for the YouTube tutorial and code that served as the foundation for this project.
 Inspiration from the official Spotify design and user experience.
